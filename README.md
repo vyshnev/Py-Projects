@@ -5,7 +5,7 @@ PROJECTS
 
 1. Pi upto nth digit
 2. e upto nth digit
-
+3. generate the Fibonacci sequencevto the Nth number
 
 
 
