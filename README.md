@@ -7,7 +7,7 @@ PROJECTS
 2. e upto nth digit
 3. generate the Fibonacci sequencevto the Nth number
 4. Prime factorization
-
+5. Next Prime number
 
 
 
